@@ -6,7 +6,7 @@ Thank you for your interest in ChromXtractorPRO.
 
 This GitHub repository provides the publicly available releases of ChromXtractorPRO and associated documentation.  
 
-_Please email adam.rosebrock (at) stonybrook (dot) edu for a current build of CXP_ 
+```Please email adam.rosebrock (at) stonybrook (dot) edu for a current build of CXP``` 
 
 Installable R-packages will be posted here upon manuscript publication. 
 
